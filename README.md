@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+im a normal person with a coding hobby  
+i started coding with python and is learning c++  
+im 13 and from hk
